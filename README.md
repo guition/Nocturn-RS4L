@@ -4,7 +4,7 @@ Nocturn Remote Script for Ableton Live
 Introduction
 ------------
 
-Nocturn RS4L is an unfficial software to control Ableton Live remotely. You have access to mixer,
+Nocturn RS4L is an unofficial software to control Ableton Live remotely. You have access to mixer,
 scene, devices, transport and other parameters from an Novation Nocturn controller.
 
 Developed in 2009 by Guillermo Ruiz Troyano
