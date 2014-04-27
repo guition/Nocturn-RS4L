@@ -7,6 +7,8 @@ Introduction
 Nocturn RS4L is an unofficial software to control Ableton Live remotely. You have access to mixer,
 scene, devices, transport and other parameters from an Novation Nocturn controller.
 
+You can see [this discussion thread](http://forum.ableton.com/viewtopic.php?t=122831).
+
 Developed in 2009 by Guillermo Ruiz Troyano
 
 License
